@@ -24,6 +24,13 @@ npm run build
 
 ```
 
+**Running the App**
+
+To start the application, navigate to project root where server.js file is located and run 
+```
+node server.js
+```
+
 Sample API requests:
 
 create a new todo item
